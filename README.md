@@ -19,7 +19,7 @@ The project consists of a single HTML file showcasing my CV.
 
 1. Download or clone this repository
 2. Open the `index.html` file in any web browser
-3. The CV webpage will display
+3. The CV webpage will display: https://roadmap.sh/projects/single-page-cv
 
 ---
 
